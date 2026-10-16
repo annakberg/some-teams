@@ -1,4 +1,4 @@
-# some-teams
+## some-teams
 
 This is a website about football clubs that are participating in the UEFA Womens Europa cup. This is the first PHP assignment for the Web Developer class os 2026. The website was created using PHP, HTML and CSS.
 
