@@ -20,9 +20,7 @@ foreach ($teams as $teamname => $details ): ?>
                 src="<?php echo $details['logo']; ?>" 
                 alt="team logo">
                 <!--skapades för att lagnamn va för långa-->
-                <h3 class="<?= in_array($teamname, ['Eintracht Frankfurt', 'Czarni Sosnowiec']) ? 'long-team-name' : '' ?>">
-    <?= htmlspecialchars($teamname) ?>
-</h3>
+                <h3 class="<?= in_array($teamname, ['Eintracht Frankfurt', 'Czarni Sosnowiec']) ? 'long-team-name' : '' ?>">  <?= htmlspecialchars($teamname) ?> </h3>
             </div>   
             </a>
         <?php endforeach; ?>
