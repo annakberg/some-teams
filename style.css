@@ -124,6 +124,11 @@ footer {
     object-fit: contain;
 }
 
+.logo img {
+    width: 80%;
+    height: 80%;
+}
+
 
 
 
