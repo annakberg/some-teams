@@ -21,7 +21,4 @@
       <h2>UEFA Europa League Teams</h2>
       
 </header>
-    
-    
 </body>
-</html>
