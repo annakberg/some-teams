@@ -19,7 +19,7 @@ foreach ($teams as $teamname => $details ): ?>
                 <img
                 src="<?php echo $details['logo']; ?>" 
                 alt="team logo">
-                //skapades för att lagnamn va för långa
+                <!--skapades för att lagnamn va för långa-->
                 <h3 class="<?= in_array($teamname, ['Eintracht Frankfurt', 'Czarni Sosnowiec']) ? 'long-team-name' : '' ?>">
     <?= htmlspecialchars($teamname) ?>
 </h3>
