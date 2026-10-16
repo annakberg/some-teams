@@ -19,7 +19,7 @@ require __DIR__ . '/header.php';
         <div class="about-me">
             <p>
                 My name is Anna Kärrberg, and this website is my first ever
-                project in PHP, CSS and HTML. It is very fitting since one
+                project using PHP, CSS and HTML. It is very fitting since one
                 of my biggest interests is football! My first dream job was
                 to become a football player. Fortunately, I was not good
                 enough, which led me to pursue a career in web development
